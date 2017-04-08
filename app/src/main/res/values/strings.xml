@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Thailand Panorama View</string>
+
+    <string name="drager">Drag yellow marker for panorama</string>
+</resources>
